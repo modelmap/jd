@@ -21,8 +21,13 @@
 
 [ソフトウェア開発者 募集要項](jd-js.md)
 
-## 参考リンク
+## 参考リンク - 会社紹介編
 
 - [未来の予測というテーマをFinancial Modelingの分野から追う。Modelmap創業ストーリー。](https://www.wantedly.com/companies/modelmap/post_articles/110554)
 - [シリコンバレーでの学びと、東京への事務所移転のお知らせ](https://www.wantedly.com/companies/modelmap/post_articles/119758)
 - [ベンチャーキャピタリスト木村亮介さん対談](https://www.wantedly.com/companies/modelmap/post_articles/128476)
+
+## 参考リンク - 事業内容編
+- [Modelmap 事業内容解説 ~問題編1~](https://www.wantedly.com/companies/modelmap/post_articles/130553)
+- [Modelmap 事業内容解説 ~問題編2~](https://www.wantedly.com/companies/modelmap/post_articles/130598)
+- [Modelmap 事業内容解説 ~解決策編1~](https://www.wantedly.com/companies/modelmap/post_articles/130866)
