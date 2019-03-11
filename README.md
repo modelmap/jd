@@ -28,6 +28,6 @@
 - [ベンチャーキャピタリスト木村亮介さん対談](https://www.wantedly.com/companies/modelmap/post_articles/128476)
 
 ## 参考リンク - 事業内容編
-- [Modelmap 事業内容解説 ~問題編1~](https://www.wantedly.com/companies/modelmap/post_articles/130553)
-- [Modelmap 事業内容解説 ~問題編2~](https://www.wantedly.com/companies/modelmap/post_articles/130598)
-- [Modelmap 事業内容解説 ~解決策編1~](https://www.wantedly.com/companies/modelmap/post_articles/130866)
+- [Modelmap 事業内容解説 問題編1](https://www.wantedly.com/companies/modelmap/post_articles/130553)
+- [Modelmap 事業内容解説 問題編2](https://www.wantedly.com/companies/modelmap/post_articles/130598)
+- [Modelmap 事業内容解説 解決策編1](https://www.wantedly.com/companies/modelmap/post_articles/130866)
